@@ -34,4 +34,7 @@ Euriptus é um projeto desenvolvido para imersão dos alunos no mundo dos Negóc
 
 Esse projeto está sob a licença MIT.
 
+
+
+
 Developed by Julio Hartwig :wave: [Participe da nossa comunidade!](https://discord.gg/sZpbvkyVZK)
