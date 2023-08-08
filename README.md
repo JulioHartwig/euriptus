@@ -1,7 +1,7 @@
 <h1 align="center"> Euriptus </h1>
 
 <p align="center">
-Euriptus é o projeto pedagógico desenvolvido pela equipe dos cursos técnicos da Escola Estadual de Ensino Fundamental e Médio "Eurico Salles" com a finalidade de um ensino com imersão em um mundo técnológico. <br/>
+Euriptus é o projeto pedagógico desenvolvido pela equipe dos cursos técnicos da Escola Estadual de Ensino Fundamental e Médio "Eurico Salles" focado em Simulação de Gestão Empresarial. <br/>
 </p>
 
 <p align="center">
@@ -26,14 +26,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📖 Projeto
 
-Euriptus é um projeto desenvolvido para imersão dos alunos no mundo dos Negócios de forma automatizada e focada em relações interpessoais. Nesse projeto, os alunos deverão gerenciar sua empresa, negociar entre si e gerar bons resultados em suas empresas.
+Euriptus é um projeto desenvolvido para imersão dos alunos no mundo dos Negócios de forma automatizada e focada em relações interpessoais. Nesse projeto, os alunos deverão aprimorar habilidades em finanças, análise e estratégia, gerenciando suas empresas, negociando entre si e gerando bons resultados.
 
 
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
