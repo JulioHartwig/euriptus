@@ -12,11 +12,14 @@ html {
 
 header{
 
-    background-color: #616161;
-
     display: flex;
     justify-content: space-between;
     padding: 1rem;
+
+
+
+    background-color: #BE8A5E;
+    color: #FFEDBC;
     
 }
 
@@ -39,7 +42,7 @@ header{
 .icone h1{
     
     font-weight: 700;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     
 }
 
@@ -63,20 +66,29 @@ header{
     align-items: center;
     justify-content: space-around;
 
-    width: 13.5rem;
-    height: 4rem;
+    width: 10rem;
+    height: 3rem;
 
-    padding: 1rem 1.5rem;
+    padding: 1rem;
     
     font-family: 'Roboto';
-    font-size: 1.25rem;
+    font-size: 0.85rem;
     font-style: normal;
     font-weight: 400;
 
-    border-radius: 0.9375rem;
+    border-radius: 0.9rem;
     border-style: none;
     background: #DBDBDB;
     color: #333333;
+
+    transition: 0.3s;
+
+}
+
+.carteira button img {
+
+    width: 2.5rem;
+    height: auto;
 
 }
 
@@ -91,24 +103,23 @@ body {
 
 .menu-lateral {
 
-    margin-top: 1rem;
 
-    width: 18rem;
+    width: 14rem;
     height: 44rem;
     
     text-align: center;
     line-height: 1rem;
 
-    background-color: #616161;
+    
+    transition: color 0.5s;
     
 }
 
 
 .menu-lateral ul {
-    
+
     margin-left: 1rem;    
-
-
+    
     font-size: 1rem;
     font-weight: 400;
     line-height: 3rem;
@@ -117,14 +128,13 @@ body {
     text-align: left;
     align-items: center;
 
-    
 }
 
 .menu-lateral ul li img {
 
-    width: 2rem;
+    width: 1.5rem;
     height: auto;
-    margin-right: 1.46rem;
+    margin-right: 1rem;
 
 
 }
@@ -148,3 +158,29 @@ body {
 
 }
 
+
+.carteira button:hover{
+
+    background-color: #8B5D33;
+    color: #FFEDBC;
+
+}
+
+.menu-lateral li:hover {
+
+    background-color: #8B5D33;
+    color: #FFEDBC;
+
+}
+
+.menu-lateral a:hover {
+
+    color: #FFEDBC;
+
+}
+
+.menu-lateral ul li img:hover {
+
+    fill: #FFEDBC;
+
+}
