@@ -5,8 +5,8 @@ Euriptus é o projeto pedagógico desenvolvido pela equipe dos cursos técnicos 
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#-projeto">Projeto</a>
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -37,4 +37,4 @@ Esse projeto está sob a licença MIT.
 
 
 
-Developed by Julio Hartwig :wave: [Participe da nossa comunidade!](https://discord.gg/sZpbvkyVZK)
+Developed by Julio Hartwig 👨🏽‍💻 [Participe da nossa comunidade!](https://discord.gg/sZpbvkyVZK)
