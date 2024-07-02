@@ -103,22 +103,27 @@ body {
 
 .menu-lateral {
 
+    position: absolute;
+
+    margin-bottom: 0rem;
+    padding-top: 1rem;
 
     width: 14rem;
-    height: 44rem;
+    height: 100%;
     
     text-align: center;
     line-height: 1rem;
 
-    
+  
     transition: color 0.5s;
+
+    background-color:#DBDBDB;
     
 }
 
 
 .menu-lateral ul {
 
-    margin-left: 1rem;    
     
     font-size: 1rem;
     font-weight: 400;
@@ -128,31 +133,41 @@ body {
     text-align: left;
     align-items: center;
 
+
+
 }
 
-.menu-lateral ul li img {
+.menu-lateral ul button {
+
+    width: 100%;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+
+    align-items: center;
+    display: flex;
+    background-color: transparent;
+    border: none;
+
+}
+
+.menu-lateral ul button img {
 
     width: 1.5rem;
     height: auto;
     margin-right: 1rem;
-
-
+    
 }
 
-.menu-lateral ul li {
-
-    display: flex;
-
-}
 
 .menu-lateral a {
+
     text-decoration: none;
     color: #333333;
-    
-    
+       
 }
 
-.menu-lateral li:last-child {
+.menu-lateral button:last-child {
 
     margin-top: 3rem;
 
@@ -166,20 +181,20 @@ body {
 
 }
 
-.menu-lateral li:hover {
+.menu-lateral button:hover {
 
     background-color: #8B5D33;
     color: #FFEDBC;
 
 }
 
-.menu-lateral a:hover {
+.menu-lateral button:hover a {
 
     color: #FFEDBC;
 
 }
 
-.menu-lateral ul li img:hover {
+.menu-lateral ul button img:hover {
 
     fill: #FFEDBC;
 
