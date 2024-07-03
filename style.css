@@ -118,6 +118,8 @@ body {
     transition: color 0.5s;
 
     background-color:#DBDBDB;
+
+    font-size: 3rem;
     
 }
 
@@ -128,6 +130,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 3rem;
+
     
     list-style: none;
     text-align: left;
@@ -143,6 +146,8 @@ body {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     padding-left: 1rem;
+    margin-top: 0rem;
+
 
     align-items: center;
     display: flex;
@@ -183,6 +188,8 @@ body {
 
 .menu-lateral button:hover {
 
+    cursor: pointer;
+
     background-color: #8B5D33;
     color: #FFEDBC;
 
@@ -197,5 +204,26 @@ body {
 .menu-lateral ul button img:hover {
 
     fill: #FFEDBC;
+
+}
+
+.escritos-laterais {
+
+    position: absolute;
+    width: 500px;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #8B5D33;
+
+    color:#FFEDBC;
+
+}
+
+.escritos-laterais h1 {
+
+    font-size: 4rem;
 
 }
