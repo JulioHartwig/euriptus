@@ -106,6 +106,7 @@ body {
     position: absolute;
 
     margin-bottom: 0rem;
+    margin-top: 0rem;
     padding-top: 1rem;
 
     width: 14rem;
@@ -126,17 +127,9 @@ body {
 
 .menu-lateral ul {
 
-    
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 3rem;
-
-    
     list-style: none;
     text-align: left;
     align-items: center;
-
-
 
 }
 
@@ -148,17 +141,22 @@ body {
     padding-left: 1rem;
     margin-top: 0rem;
 
-
+    
     align-items: center;
     display: flex;
     background-color: transparent;
     border: none;
+    border-radius: 1px;
+    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 3rem;
 
 }
 
-.menu-lateral ul button img {
+.menu-lateral ul button svg {
 
-    width: 1.5rem;
+    width: 3rem;
     height: auto;
     margin-right: 1rem;
     
@@ -172,7 +170,7 @@ body {
        
 }
 
-.menu-lateral button:last-child {
+.menu-lateral a:last-child {
 
     margin-top: 3rem;
 
@@ -189,10 +187,11 @@ body {
 .menu-lateral button:hover {
 
     cursor: pointer;
-
+    
     background-color: #8B5D33;
     color: #FFEDBC;
-
+    
+    fill: #FFEDBC;
 }
 
 .menu-lateral button:hover a {
@@ -201,11 +200,13 @@ body {
 
 }
 
-.menu-lateral ul button img:hover {
+.estoque {
 
-    fill: #FFEDBC;
+    margin-left: 14rem;
 
 }
+
+
 
 .escritos-laterais {
 
